@@ -5,7 +5,7 @@ We need all skills from basic HTML to back end Node.js and MongoDB. If you've co
 Here's what I think we need to do as a baseline and who has spoken for each task: 
 
 ### 1. HTML
-1a. Build navigation bar *Assigned to Rachel T*<br>
+1a. Build navigation bar || *Assigned to Rachel T*<br>
 1b. Build hero section <br>
 1c. Build section for condolences with form <br>
 1d. Build section for favorite memorial quotes with form <br>
@@ -16,7 +16,7 @@ Here's what I think we need to do as a baseline and who has spoken for each task
 2c. Style condolences box <br>
 2d. Style quotes box <br>
 2e. Style condolences and quote forms <br>
-2f. Make mobile and tablet responsive *Assigned to desknor*<br>
+2f. Make mobile and tablet responsive || *Assigned to desknor*<br>
 
 ### 3. JavaScript 
 3a. Event listener for condolences form <br>
