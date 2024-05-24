@@ -16,6 +16,7 @@ Here's what I think we need to do as a baseline:
 2c. Style condolences box <br>
 2d. Style quotes box <br>
 2e. Style condolences and quote forms <br>
+2f. Make mobile and tablet responsive <br>
 
 ### 3. JavaScript 
 3a. Event listener for condolences form <br>
